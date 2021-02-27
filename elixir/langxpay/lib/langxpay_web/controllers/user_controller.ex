@@ -12,5 +12,4 @@ defmodule LangxpayWeb.UserController do
       |> render("create.json", user: user)
     end
   end
-
 end
