@@ -6,5 +6,5 @@
 | **mockery** |       true       |           true | 3.4k            |
 
 
-Both libraries have good features. The only downside from gomock is that the docker support is not official.
-However, both libs do a great job, so I think we can choose anyone. 
+Both libraries have good features. The only downside from `gomock` is that the docker support is not official.
+However, I think `gomock` is more readable but both libs do a great job. I think we can choose anyone.
